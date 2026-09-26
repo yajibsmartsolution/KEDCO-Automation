@@ -1,0 +1,5 @@
+KEDCO GitHub Pages package build report
+
+HTML pages: 33
+Total files: 75
+Missing static references detected: 0
